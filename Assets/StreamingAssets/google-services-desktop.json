@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17717003975",
+    "firebase_url": "https://puzzle2d-1-default-rtdb.firebaseio.com",
+    "project_id": "puzzle2d-1",
+    "storage_bucket": "puzzle2d-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17717003975:android:6ad368dae143e893ffe0e2",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.HanifeLacin_Cnnc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17717003975-ieomdf0kst6tfh4nc8uala2mkm6rkm5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCECQUKdSpWQmWj7Uh-fxSszFepK_t0q6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17717003975-ieomdf0kst6tfh4nc8uala2mkm6rkm5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
