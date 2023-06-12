@@ -6,9 +6,9 @@ namespace EDITOR
 {
    public class LevelEditorWindow : EditorWindow
 {
-    private int gridWidth = 2;
-    private int gridHeight = 2;
-    private float cellSize = .5f;
+    private int gridWidth = 5;
+    private int gridHeight = 5;
+    private float cellSize = .67f;
 
     private GameObject[] prefabToPlace;
 
