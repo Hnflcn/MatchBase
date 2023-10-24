@@ -1,3 +1,4 @@
+using Enums;
 using Lean.Touch;
 using UnityEngine;
 
@@ -47,7 +48,6 @@ namespace Managers
             _isFull = false;
             _canMove = false;
         }
-
 
         private static void OnFingerUpdate(LeanFinger finger)
         {
